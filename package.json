@@ -1,0 +1,14 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "this is a self learn demo project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Alok G",
+  "license": "ISC",
+  "dependencies": {
+    "express": "file:"
+  }
+}
